@@ -36,7 +36,7 @@ Imports:
     lsa,
     scater,
     SpatialFeatureExperiment
-URL: https://github.com/Center-for-Spatial-OMICs/SpatialQC, https://margery0011.github.io/SpatiaTouchstone/
+URL: https://github.com/beardymcjohnface/SpatialQC, https://margery0011.github.io/SpatiaTouchstone/
 BugReports: https://github.com/Margery0011/SpatiaTouchstone/issues
 Suggests: 
     knitr,
